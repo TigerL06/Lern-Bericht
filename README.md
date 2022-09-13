@@ -37,7 +37,6 @@ Gift: Hier wird gezeigt, wie der Code funktioniert
 # Reflektion zum Arbeitsprozess
 
 👍 Das lief gut:
-    
     Ich konnte konzentriert arbeiten.
     
     Ich habe die Aufträge gut erfühlt.
