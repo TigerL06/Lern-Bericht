@@ -37,14 +37,19 @@ Gift: Hier wird gezeigt, wie der Code funktioniert
 # Reflektion zum Arbeitsprozess
 
 👍 Das lief gut:
+    
     Ich konnte konzentriert arbeiten.
+    
     Ich habe die Aufträge gut erfühlt.
+    
     Ich habe alle Aufträge zeitlich rechtzeitig fertig gestellt.
 
 👎 Das lief schlecht:
-    Wen Probleme aufgetaucht habe ich mich immer zwei Minuten lang aufgeregt.
+   
+   Wen Probleme aufgetaucht habe ich mich immer zwei Minuten lang aufgeregt.
     
 
 **VBV**: 
+
 Ich müsste mich bei nächsten Mal zusammenreisen und eine Lösung suchen.
 
