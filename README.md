@@ -36,20 +36,21 @@ Gift: Hier wird gezeigt, wie der Code funktioniert
 
 # Reflektion zum Arbeitsprozess
 
-👍 Das lief gut:
-    
-    👍Ich konnte konzentriert arbeiten.
-    
-    👍Ich habe die Aufträge gut erfühlt.
-    
-    👍Ich habe alle Aufträge zeitlich rechtzeitig fertig gestellt.
+👍 **Das lief gut:**
 
-👎 Das lief schlecht:
-   
+👍Ich konnte konzentriert arbeiten.
+    
+👍Ich habe die Aufträge gut erfühlt.
+    
+👍Ich habe alle Aufträge zeitlich rechtzeitig fertig gestellt.
+
+👎**Das lief schlecht:**
+
    👎Wen Probleme aufgetaucht habe ich mich immer zwei Minuten lang aufgeregt.
+    
     
 
 **VBV**: 
 
-Ich müsste mich bei nächsten Mal zusammenreisen und eine Lösung suchen.
+Wenn ich beim nächsten Mal ein Problem habe und ich mich aufrege, gehe ich aus dem Klassenzimmer und laufe paar Rundenden. Danach suche ich eine Lösung, in dem ich im Internet danach suche, Rubber ducking anwende oder einen Schulkamerad frage.
 
