@@ -8,6 +8,7 @@ Ich weiss nun wie ich Try und Catch verwenden kann und wie es programmiert wird.
 
 ## Beschreibung
 
+Mit Try und Catch kann man das Projekt davor schützen, dass es bei einer Fehleingabe abstürzt. Try wird vor dem Code gesetzt und Catch nach dem Code, den man beschützen will. Man sollte aber Try und Catch nur über den Teil des Codes legen, wo ein Fehler passieren kann, den Try und Catch verlangsamen das Programm. Try überprüft jetzt bei jedem durch Gang, ob das Programm durchgeführt werden kann und wenn nicht wird der Codefluss zu Catch umgeleitet. Dort werden dann die Befehle ausgeben, die man bei einer Fehleingabe haben will.
 
 
 ```CSHARP
@@ -25,17 +26,25 @@ catch
     Console.WriteLine("Starten sie das Programm neu.");
 }
 ```
-![image](https://user-images.githubusercontent.com/110893121/189841809-e8a0ed3d-38a2-4bb3-b50c-c02b6820a6a5.png)
+
 ![Gif](https://github.com/TigerL06/Lern-Bericht/blob/main/Animation.gif?raw=true)
 
 ## Verifikation
-
-
+Text: Im Text wird erklärt wie Try und Catch verwendet wird.
+Code: Hier wird ein Codebeispiel gezeigt
+Gift: Hier wird gezeigt, wie der Code funktioniert
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+👍 Das lief gut:
+    Ich konnte konzentriert arbeiten.
+    Ich habe die Aufträge gut erfühlt.
+    Ich habe alle Aufträge zeitlich rechtzeitig fertig gestellt.
 
-👎 und etwas, was nicht gut lief.
+👎 Das lief schlecht:
+    Wen Probleme aufgetaucht habe ich mich immer zwei Minuten lang aufgeregt.
+    
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: 
+Ich müsste mich bei nächsten Mal zusammenreisen und eine Lösung suchen.
+
