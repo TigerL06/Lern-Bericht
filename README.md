@@ -1,10 +1,10 @@
 # Lern-Bericht
 ## Einleitung
-Wir haben im Lernatelier
+Wir haben im Lernatelier den Auftrag bekommen ein Zufallsspiel zu programmiern.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich weiss nun wie ich Try und Catch verwenden kann und wie es programmiert wird.
 
 ## Beschreibung
 
