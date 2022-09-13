@@ -10,6 +10,7 @@ Ich weiss nun wie ich Try und Catch verwenden kann und wie es programmiert wird.
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 ![image](https://user-images.githubusercontent.com/110893121/189841809-e8a0ed3d-38a2-4bb3-b50c-c02b6820a6a5.png)
+
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
